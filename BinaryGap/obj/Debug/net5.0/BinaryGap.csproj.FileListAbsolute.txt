@@ -1,0 +1,16 @@
+D:\Codility.Lessons\BinaryGap\bin\Debug\net5.0\BinaryGap.exe
+D:\Codility.Lessons\BinaryGap\bin\Debug\net5.0\BinaryGap.deps.json
+D:\Codility.Lessons\BinaryGap\bin\Debug\net5.0\BinaryGap.runtimeconfig.json
+D:\Codility.Lessons\BinaryGap\bin\Debug\net5.0\BinaryGap.runtimeconfig.dev.json
+D:\Codility.Lessons\BinaryGap\bin\Debug\net5.0\BinaryGap.dll
+D:\Codility.Lessons\BinaryGap\bin\Debug\net5.0\ref\BinaryGap.dll
+D:\Codility.Lessons\BinaryGap\bin\Debug\net5.0\BinaryGap.pdb
+D:\Codility.Lessons\BinaryGap\obj\Debug\net5.0\BinaryGap.csprojAssemblyReference.cache
+D:\Codility.Lessons\BinaryGap\obj\Debug\net5.0\BinaryGap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codility.Lessons\BinaryGap\obj\Debug\net5.0\BinaryGap.AssemblyInfoInputs.cache
+D:\Codility.Lessons\BinaryGap\obj\Debug\net5.0\BinaryGap.AssemblyInfo.cs
+D:\Codility.Lessons\BinaryGap\obj\Debug\net5.0\BinaryGap.csproj.CoreCompileInputs.cache
+D:\Codility.Lessons\BinaryGap\obj\Debug\net5.0\BinaryGap.dll
+D:\Codility.Lessons\BinaryGap\obj\Debug\net5.0\ref\BinaryGap.dll
+D:\Codility.Lessons\BinaryGap\obj\Debug\net5.0\BinaryGap.pdb
+D:\Codility.Lessons\BinaryGap\obj\Debug\net5.0\BinaryGap.genruntimeconfig.cache
